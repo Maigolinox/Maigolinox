@@ -23,3 +23,6 @@ within our possibilities and make it clear that it is up to us to create a chang
 
 I firmly believe that the least we should waste is time, our lives are short, but in my life I want to do the best that I can do and do it well by giving my best effort in 
 the things I believe in.
+
+
+To see my advances an projects: terronm.com
