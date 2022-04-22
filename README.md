@@ -1,7 +1,7 @@
 Hello, my name is Victor Terron.
 I am a technotronic engineer, I love technology, mathematics and programming.
 
-Since I was 15 years old I was interested in technological development, experimenting I learned to repair computers; I have enrolled in courses to learn Web Development, analyze data with python and R (also graph it) or programming scripts to automate task like web scrappers also one of my majors is develop IoT systems using MCU's like ESP32, PIC and arduino with a real server that in the background has my own private broker to control and monitoring some variables like on/off of lights or any other device, monitoring temperature, register and control the access in a DB using MySQL.
+I have enrolled in courses to learn Web Development, analyze data with python and R (also graph it) or programming scripts to automate task like web scrappers also one of my majors is develop IoT systems using MCU's like ESP32, PIC and arduino with a real server that in the background has my own private broker to control and monitoring some variables like on/off of lights or any other device, monitoring temperature, register and control the access in a DB using MySQL.
 
 In a certain way I have taken personal projects to develop applications for mobile devices,however, I still have not mastered it in its entirety so I am putting a lot of effort and commitment with my learning to become a developer of applications for mobile devices of different operating systems One of my latest projects has been developing applications and web platforms for my university (specifically in the development of the registration platform for graduate applicants).
 
