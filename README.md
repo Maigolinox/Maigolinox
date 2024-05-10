@@ -1,17 +1,22 @@
-Hello, my name is Victor Terron.
-I am a technotronic engineer, I love technology, mathematics and programming.
+Welcome to my GitHub profile! 👋 As a soon-to-be graduate with a Masters in Software Engineering, I bring a diverse skill set and a passion for innovation. My journey began with a degree in Mechatronics Engineering, and along the way, I've eagerly pursued numerous courses and certifications to broaden my expertise.
 
-I have enrolled in courses to learn Web Development, analyze data with python and R (also graph it) or programming scripts to automate task like web scrappers also one of my majors is develop IoT systems using MCU's like ESP32, PIC and arduino with a real server that in the background has my own private broker to control and monitoring some variables like on/off of lights or any other device, monitoring temperature, register and control the access in a DB using MySQL.
+I've honed my project management skills through the Google Specialization on Coursera, delving into everything from project initiation to agile methodologies. Additionally, my knowledge extends to essential DevOps practices, KanBan system design, SCRUM foundations, and more, all supported by certifications from reputable institutions like Oracle and CertiProf.
 
-In a certain way I have taken personal projects to develop applications for mobile devices,however, I still have not mastered it in its entirety so I am putting a lot of effort and commitment with my learning to become a developer of applications for mobile devices of different operating systems One of my latest projects has been developing applications and web platforms for my university (specifically in the development of the registration platform for graduate applicants).
+My academic background is complemented by hands-on experience showcased in my GitHub repositories. Whether it's developing platforms for automating work product analysis with AI, crafting Django applications, or delving into natural language processing algorithms for opinion classification, I'm constantly exploring new horizons.
 
-I have both work and academic experience leading teams, I love taking control of the situation because I create different paths that can help me solve a situation and as the situation requires, make decisions to reduce the risk of failing in achieving my goal. I like to take risk when it is controlled and I try to keep the situation under control, I consider every opinion of my team to approach the problem from different perspectives.
+You'll find a range of projects on my profile, from bioinformatics tools for sequence analysis to web development portfolios and IoT system deployments on AWS EC2. I also curate resources for learning Linux, data science with Python and R, and algebraic concepts in R.
 
-I have been a candidate to participate in different scholarships from Santander Mexico and fortunately I won a scholarship to study data science in a course taught by BEDU, from where I learned the foundations of data science.
+Join me on this journey of exploration and innovation as we continue to push the boundaries of technology together. Feel free to explore my repositories and connect with me for collaborations or discussions on all things software engineering and beyond! 🚀
 
-In the same way I get the Lean Six Sigma Green Belt Certification.
-For me the most important thing in my life is to never stop developing my knowledge, I want to go as far as my decisions and actions allow me, I want to continue growing and being at the forefront of technological development and make a great contribution able to create economic and social well-being for my environment.
 
-I have plans to create my entrepreneurships, in that way I think that I be able to create well-being for people who join their efforts to my causes, to make people realize that creating a better world is within our possibilities and make it clear that it is up to us to create a change, to assume the responsibility of our circumstances.
-
-To see my advances an projects: --------------.----------
+My repos are described briefly below:
+* vsest: This repository houses the culmination of my master's thesis project, offering a sophisticated platform for automating work product analysis. As it's a private repository, it contains sensitive intellectual property developed using Django and artificial intelligence.
+* django_practices: In this repository, I've compiled a series of Django practices that I've developed, serving as a sandbox for refining my skills with the Django REST framework. It's a space for experimentation and learning within the realm of web development.
+* proyecto_demo: Here lies an exciting project where I've built software capable of classifying opinions from tourist places in Guanajuato using natural language processing algorithms. It's a testament to my interest in NLP and my ability to apply it to real-world scenarios.
+* MeIA_Bioinformatica: This repository contains resources for performing sequence analysis using Python scripts, showcasing my expertise in bioinformatics and computational biology. It's a hub for tools and scripts relevant to my research interests in this field.
+* fungiregex: Dive into this repository to explore my work on scraping the JGI Mycocosm database using custom regular expressions. It's a project born out of necessity for my research and demonstrates my proficiency in data scraping techniques.
+* portfolioReact: Take a trip down memory lane with my old portfolio from 2017, developed using React. While it's a relic of the past, it's a testament to my journey in web development and serves as a nostalgic reminder of how far I've come.
+* linux resources: Here, I've curated a collection of resources for learning and mastering Linux, showcasing my passion for system administration and my commitment to sharing knowledge within the community.
+* Data Science with R and Python: This repository houses a treasure trove of scripts for data analysis, covering everything from statistical computing to data visualization using R and Python. It's a reflection of my expertise in the field of data science.
+* EMQX_IoT_Terron: Explore this repository to discover my experience in deploying a broker server for an IoT system on AWS EC2. It's a testament to my skills in IoT infrastructure setup and my ability to navigate cloud environments.
+* Curso_Algebra_Lineal: Dive into this repository to find resources for learning linear algebra in R. It's a project close to my heart, as it underscores my commitment to education and my belief in the power of open-source learning materials.
