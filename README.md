@@ -20,3 +20,13 @@ My repos are described briefly below:
 * Data Science with R and Python: This repository houses a treasure trove of scripts for data analysis, covering everything from statistical computing to data visualization using R and Python. It's a reflection of my expertise in the field of data science.
 * EMQX_IoT_Terron: Explore this repository to discover my experience in deploying a broker server for an IoT system on AWS EC2. It's a testament to my skills in IoT infrastructure setup and my ability to navigate cloud environments.
 * Curso_Algebra_Lineal: Dive into this repository to find resources for learning linear algebra in R. It's a project close to my heart, as it underscores my commitment to education and my belief in the power of open-source learning materials.
+
+
+
+Feel free to contact me:
+vicmictm@gmail.com
+or
+victor.terron@cimat.mx
+
+My linkedin:
+https://www.linkedin.com/in/victor-terron/
