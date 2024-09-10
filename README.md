@@ -1,4 +1,6 @@
-Welcome to my GitHub profile! 👋 As a soon-to-be graduate with a Masters in Software Engineering, I bring a diverse skill set and a passion for innovation. My journey began with a degree in Mechatronics Engineering, and along the way, I've eagerly pursued numerous courses and certifications to broaden my expertise.
+## Python Developer | Software Engineer | Project Manager
+
+Welcome to my GitHub profile! 👋 As a recent graduate with a Master's degree in Software Engineering, I bring a diverse skill set and a commitment to innovation in software development. My educational background in Mechatronics Engineering, combined with extensive experience in Python development and artificial intelligence, positions me to contribute effectively to cutting-edge projects.
 
 I've honed my project management skills through the Google Specialization on Coursera, delving into everything from project initiation to agile methodologies. Additionally, my knowledge extends to essential DevOps practices, KanBan system design, SCRUM foundations, and more, all supported by certifications from reputable institutions like Oracle and CertiProf.
 
@@ -8,6 +10,14 @@ You'll find a range of projects on my profile, from bioinformatics tools for seq
 
 Join me on this journey of exploration and innovation as we continue to push the boundaries of technology together. Feel free to explore my repositories and connect with me for collaborations or discussions on all things software engineering and beyond! 🚀
 
+## Professional Focus
+
+* Python Development with Django
+* Artificial Intelligence and Machine Learning Implementation
+* Project Management (Agile and Traditional Methodologies)
+* DevOps Practices and System Administration
+
+## Repository overview
 
 My repos are described briefly below:
 * vsest: This repository houses the culmination of my master's thesis project, offering a sophisticated platform for automating work product analysis. As it's a private repository, it contains sensitive intellectual property developed using Django and artificial intelligence.
@@ -21,7 +31,10 @@ My repos are described briefly below:
 * EMQX_IoT_Terron: Explore this repository to discover my experience in deploying a broker server for an IoT system on AWS EC2. It's a testament to my skills in IoT infrastructure setup and my ability to navigate cloud environments.
 * Curso_Algebra_Lineal: Dive into this repository to find resources for learning linear algebra in R. It's a project close to my heart, as it underscores my commitment to education and my belief in the power of open-source learning materials.
 
+## Professional Development
+I am committed to continuous learning and professional growth, as evidenced by my certifications in project management, DevOps, and agile methodologies. My approach combines technical expertise with strong project management skills to deliver high-quality software solutions.
 
+# Contact me
 
 Feel free to contact me:
 vicmictm@gmail.com
@@ -30,3 +43,5 @@ victor.terron@cimat.mx
 
 My linkedin:
 https://www.linkedin.com/in/victor-terron/
+
+Thank you for visiting my GitHub profile. I look forward to potential opportunities for professional collaboration and contribution to impactful projects in software engineering and artificial intelligence.
