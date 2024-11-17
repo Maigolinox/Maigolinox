@@ -1,5 +1,7 @@
 ## Python Developer | Software Engineer | Project Manager
 
+Doctoral Student
+
 Welcome to my GitHub profile! 👋 As a recent graduate with a Master's degree in Software Engineering, I bring a diverse skill set and a commitment to innovation in software development. My educational background in Mechatronics Engineering, combined with extensive experience in Python development and artificial intelligence, positions me to contribute effectively to cutting-edge projects.
 
 I've honed my project management skills through the Google Specialization on Coursera, delving into everything from project initiation to agile methodologies. Additionally, my knowledge extends to essential DevOps practices, KanBan system design, SCRUM foundations, and more, all supported by certifications from reputable institutions like Oracle and CertiProf.
